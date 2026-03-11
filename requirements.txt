@@ -1,0 +1,5 @@
+# minimal dependencies for TRIAD framework
+# most code uses only Python standard library
+
+# optional rich text UI for the console
+rich>=13.0.0

@@ -1,0 +1,9 @@
+.git/
+__pycache__/
+*.exe
+*.dll
+*.pyc
+node_modules/
+.venv/
+build/
+dist/
